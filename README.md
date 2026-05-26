@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Tejal 👋
 
-<!--
-**TejalParab/TejalParab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Product Manager with 4+ years of experience building and improving enterprise SaaS products across workflow management, operations, and customer experience domains. I enjoy solving complex product problems, simplifying user workflows, and translating customer insights into scalable solutions.
 
-Here are some ideas to get you started:
+## 💡 What I Work On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Product Strategy & Roadmapping
+* AI-assisted Product Workflows
+* User Research & Usability Improvements
+* Agile Product Development
+* Cross-functional Collaboration
+* Data-driven Product Decisions
+
+## 🛠 Tools & Platforms
+
+* Jira
+* Notion
+* Smartsheet
+* ChatGPT / Notion AI
+* Confluence
+
+## 📈 A Few Things I’m Proud Of
+
+* Improved customer retention through usability and workflow improvements
+* Increased delivery accuracy with better planning and reporting systems
+* Integrated AI tools into PM workflows to accelerate documentation and execution
+
+## 🌱 Currently Exploring
+
+* AI-native product experiences
+* Workflow automation
+* Product-led growth
+* UX-driven product strategy
+
+## 🤝 Let’s Connect
+
+* LinkedIn: [www.linkedin.com/in/tejalparab](http://www.linkedin.com/in/tejalparab)
+* Email: [tejalparab02@gmail.com](mailto:tejalparab02@gmail.com)
