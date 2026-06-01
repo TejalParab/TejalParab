@@ -16,7 +16,7 @@ I’m a Product Manager with 4+ years of experience building and improving enter
 * Jira
 * Notion
 * Smartsheet
-* ChatGPT / Notion AI
+* ChatGPT / Claude / Gemini
 * Confluence
 
 ## 📈 A Few Things I’m Proud Of
